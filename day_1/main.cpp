@@ -31,9 +31,7 @@ int main ()
     {"nine", 9},
     {"9",9},
   };
-    
-  
- 
+     
   std::string const filename{ "../input.txt" } ;
   std::fstream CalibrationFile{ filename, std::ios::in};
   if( !CalibrationFile.is_open() )
