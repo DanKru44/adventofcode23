@@ -1,3 +1,0 @@
-/home/daniel/Repos/adventofcode23/day_1/build/CMakeFiles/AdventOfCodeDay1.dir
-/home/daniel/Repos/adventofcode23/day_1/build/CMakeFiles/edit_cache.dir
-/home/daniel/Repos/adventofcode23/day_1/build/CMakeFiles/rebuild_cache.dir
