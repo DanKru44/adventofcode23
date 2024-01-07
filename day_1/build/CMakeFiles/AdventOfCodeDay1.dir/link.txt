@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/AdventOfCodeDay1.dir/main.cpp.o -o AdventOfCodeDay1 
